@@ -3,10 +3,10 @@
 Welcome to qdbvcella's documentation!
 ====================================
 
-`Shablona` is a template for a small scientific Python project. 
+`qdbvcella` is a small scientific Python project for quantum dot association. 
 
 To see how to use it, please refer to the `README file 
-<https://github.com/uwescience/qdbvcella/blob/master/README.md>`_ in the Github repository.
+<https:/https://github.com/hhelmbre/qdbvcella/README.md>`_ in the Github repository.
 
 This is an example of documentation of the software, using sphinx_. 
 
