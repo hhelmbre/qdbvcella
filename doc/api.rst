@@ -5,7 +5,7 @@ API
 Classes
 -------
 
-.. currentmodule:: shablona
+.. currentmodule:: qdbvcella
 
 .. autosummary::
    :template: class.rst
