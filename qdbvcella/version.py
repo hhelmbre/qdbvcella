@@ -30,19 +30,17 @@ description = "qdbvcella: a template for small scientific Python projects"
 # Long description will go up on the pypi page
 long_description = """
 
-Shablona
+QDBVCellA
 ========
-Shablona is a template project for small scientific Python projects.
+QDBVCellA is a small python package for determining quantum dot association.
 
-It contains software implementations of an analysis of some simple data, but
-more importantly, it contains infrastructure for testing, documentation,
-continuous integration and deployment, which can be easily adapted
-to use in other projects.
+It contains software that allows for the quantification of quantum dot/BV2
+cell assocation over time from confocal microscopy tracking videos.
 
 To get started using these components in your own software, please go to the
 repository README_.
 
-.. _README: https://github.com/uwescience/qdbvcella/blob/master/README.md
+.. _README: https://github.com/hhelmbre/qdbvcella/blob/master/README.md
 
 License
 =======
@@ -52,20 +50,21 @@ for usage, and a DISCLAIMER OF ALL WARRANTIES.
 
 All trademarks referenced herein are property of their respective holders.
 
-Copyright (c) 2015--, Ariel Rokem, The University of Washington
-eScience Institute.
+Copyright (c) 2019--, Hawley Helmbrect, Nance Lab,
+The University of Washington
+Department of Chemical Engineering.
 """
 
 NAME = "qdbvcella"
-MAINTAINER = "Ariel Rokem"
-MAINTAINER_EMAIL = "arokem@gmail.com"
+MAINTAINER = "Hawley Helmbrecht"
+MAINTAINER_EMAIL = "hhelmbre@uw.edu"
 DESCRIPTION = description
 LONG_DESCRIPTION = long_description
-URL = "http://github.com/uwescience/qdbvcella"
+URL = "http://github.com/hhelmbre/qdbvcella"
 DOWNLOAD_URL = ""
 LICENSE = "MIT"
-AUTHOR = "Ariel Rokem"
-AUTHOR_EMAIL = "arokem@gmail.com"
+AUTHOR = "HawleyHelmbrecht"
+AUTHOR_EMAIL = "hhelmbre@uw.edu"
 PLATFORMS = "OS Independent"
 MAJOR = _version_major
 MINOR = _version_minor
